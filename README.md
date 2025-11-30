@@ -8,7 +8,7 @@ Proficient in the **JavaScript ecosystem (Node.js/React)** with a strong foundat
 
 ---
 
-### 🛠️ Technical Stack
+###  Technical Stack
 
 | Domain | Technologies |
 | :--- | :--- |
